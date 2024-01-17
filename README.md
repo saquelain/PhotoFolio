@@ -2,7 +2,7 @@
 
 ## :dart: Overview ##
 
-<p>This album allows you to store and categorize images within different albums, making it a delightful way to revisit your cherished moments.</p>
+<p>This app allows you to store and categorize images within different albums, making it a delightful way to revisit your cherished moments.</p>
 
 ## :star2: Features ##
 
