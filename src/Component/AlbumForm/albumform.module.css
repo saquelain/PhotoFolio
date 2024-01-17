@@ -1,0 +1,27 @@
+/* input box within the form */
+.input{
+    width: 55%;
+    margin: 0 2%;
+    height: 40px;
+}
+
+/* buttons inside the form */
+.formBtn{
+    width: 100px;
+    margin: 0 2%;
+    height: 35px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+}
+
+/* clear button */
+.clearBtn{
+    background-color:#f95d9b;
+}
+
+/* add button */
+.addBtn{
+    background-color:#3235b9;
+}
